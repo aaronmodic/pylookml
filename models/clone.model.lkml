@@ -1,4 +1,4 @@
-
+  connection: "bytecode_postgres" include: "/views/**/*.view" 
 
 
 explore: customers {
